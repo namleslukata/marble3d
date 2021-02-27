@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Hole
+  - Slider
+  - Player1
+  - Player2
+  - Ball
+  - RedBall
+  - GreenBall
   layers:
   - Default
   - TransparentFX
